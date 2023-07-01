@@ -1,0 +1,7 @@
+回声“# aaaaa” >> README.md
+git init
+git 添加 README.md
+git commit -m “first commit”
+git 分支 -M 主
+git 远程添加源 https://github.com/stngzm/aaaaa.git
+git push -u origin main
